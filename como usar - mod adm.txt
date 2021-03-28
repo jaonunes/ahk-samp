@@ -1,0 +1,21 @@
+ler rpt digitando id no chat: 
+
+T > digita somente o ID e aperta "+" do NumPad
+
+Ler ultimo Rpt enviado: 
+
+Aperta "+" com o chat fechado
+
+pinfo:
+
+aperta X com chat fechado
+
+
+Sem ant: "/" do NumPad
+
+Sem DB: "*" do NumPad
+
+Olhar off: F2
+
+
+Mandar inicio fim de CF alt + 0, ai vai aparecer os opções
